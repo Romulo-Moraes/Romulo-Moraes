@@ -10,19 +10,30 @@
 <ul>
   <li>💻 With focus in WEB Development i started in this world in 02/2019</li>  
   <li>✨ Making PHP projects right now!</li>
-  <li>17 Years old</li>
-  <li>Studying System Development</li>
-  <li>My current location is : São Paulo - Brazil</li>
+  <li>🎂 17 Years old</li>
+  <li>📘 Studying System Development</li>
+  <li>🏴󠁢󠁲󠁳󠁰󠁿 My current location is : São Paulo - Brazil</li>
 </ul>
 
 ### About my targets
 
 <ul>
-  <li>I want to be a CyberSecurity as my career</li>  
-  <li>Be independent</li>
-  <li>Be a good programmer</li>
-  <li>Get my own cash</li>
+  <li>💜 I want to be a CyberSecurity as my career</li>  
+  <li>🍃 Be independent</li>
+  <li>🖥️ Be a good programmer</li>
+  <li>💰 Get my own cash</li>
 </ul>
+
+### My History to be a developer
+
+Since my 14 years of old i don't knew what i will do of my life, my city has two good school, 
+
+one of technologies and another of engineer. I needed to choose one of these, but in a random day my cousin
+
+showed me some basics things about programming, like define variables in JS and logical decision with if/else
+
+(and some things about hacking), since this day i wanted work with technologies.
+
 
 #
 
