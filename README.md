@@ -17,7 +17,6 @@
 ### About my targets
 
 <ul>
-  <li>💜 I want to be a CyberSecurity as my career</li>  
   <li>🍃 Be independent</li>
   <li>🖥️ Be a good programmer</li>
   <li>💰 Get my own cash</li>
@@ -26,12 +25,9 @@
 ### My History to be a developer
 
 Since my 14 years of old i don't knew what i will do of my life, my city has two good school, 
-
 one of technologies and another of engineer. I needed to choose one of these, but in a random day my cousin
-
 showed me some basics things about programming, like define variables in JS and logical decision with if/else
-
-(and some things about hacking), since this day i wanted work with technologies.
+, since this day i wanted work with technologies.
 
 #
 
@@ -41,9 +37,8 @@ showed me some basics things about programming, like define variables in JS and 
 
 <div>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" height="30" width="40" src="https://p7.hiclipart.com/preview/889/976/939/the-c-programming-language-computer-programming-programming.jpg"/>
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png">
 </div>
