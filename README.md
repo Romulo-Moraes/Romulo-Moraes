@@ -1,5 +1,5 @@
 ## Hello world, I'm Rômulo Peres de Moraes
-<div>
+<div align="center">
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=Romulo-Moraes&theme=tokyonight&show_icons=true">
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Romulo-Moraes&theme=tokyonight&layout=compact">
 </div>
