@@ -34,12 +34,12 @@ showed me some basics things about programming, like define variables in JS and 
 <h2 align="center">Some good repositories that you would like</h2>
 <div align="center">
    <div align="center">
-      <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=Romulo-Moraes&repo=HttpLibrary&theme=tokyonight">
-      <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=Romulo-Moraes&repo=colorizedPrint&theme=tokyonight">
+      <img height="95px" src="https://github-readme-stats.vercel.app/api/pin/?username=Romulo-Moraes&repo=HttpLibrary&theme=tokyonight">
+      <img height="95px" src="https://github-readme-stats.vercel.app/api/pin/?username=Romulo-Moraes&repo=colorizedPrint&theme=tokyonight">
    </div>
    <div>
-      <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=Romulo-Moraes&repo=binconvert&theme=tokyonight">
-      <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=Romulo-Moraes&repo=Caesar-Cipher&theme=tokyonight">
+      <img height="95px" src="https://github-readme-stats.vercel.app/api/pin/?username=Romulo-Moraes&repo=binconvert&theme=tokyonight">
+      <img height="95px" src="https://github-readme-stats.vercel.app/api/pin/?username=Romulo-Moraes&repo=Caesar-Cipher&theme=tokyonight">
    </div>
 </div>
 
@@ -48,9 +48,9 @@ showed me some basics things about programming, like define variables in JS and 
 ### Well... is this. Hello World!
 
 <div>
-  <img align="center" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" height="45" width="55" src="https://p7.hiclipart.com/preview/889/976/939/the-c-programming-language-computer-programming-programming.jpg"/>
-  <img align="center" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" height="40" width="50" src="https://p7.hiclipart.com/preview/889/976/939/the-c-programming-language-computer-programming-programming.jpg"/>
+  <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
