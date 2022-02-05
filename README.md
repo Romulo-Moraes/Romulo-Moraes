@@ -22,7 +22,7 @@
   <li>💰 Get my own cash</li>
 </ul>
 
-### My History to be a developer
+### My History to be a programmer
 
 Since my 14 years of old i don't knew what i will do of my life, my city has two good school, 
 one of technologies and another of engineer. I needed to choose one of these, but in a random day my cousin
