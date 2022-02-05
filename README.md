@@ -31,8 +31,9 @@ showed me some basics things about programming, like define variables in JS and 
 
 ### Some good repositories that you would like
 <div>
-   <img height="110px" src="https://github-readme-stats.vercel.app/api/pin/?username=Romulo-Moraes&repo=HttpLibrary&theme=tokyonight">
-   <img height="110px" src="https://github-readme-stats.vercel.app/api/pin/?username=Romulo-Moraes&repo=colorizedPrint&theme=tokyonight">
+   <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=Romulo-Moraes&repo=HttpLibrary&theme=tokyonight">
+   <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=Romulo-Moraes&repo=colorizedPrint&theme=tokyonight">
+  <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=Romulo-Moraes&repo=binconvert&theme=tokyonight">
 </div>
 
 #
