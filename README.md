@@ -1,5 +1,5 @@
 <div align="center">
-   <img style="border-radius:50%;" height="130px" src="https://media.istockphoto.com/vectors/vector-logo-letter-r-wing-vector-id1012390136?k=20&m=1012390136&s=170667a&w=0&h=G6WA7KqynqsmQYNG5hZOpy_LffkCgxrtja4sAfB5ll4=">
+   <img style="border-radius:50%;" height="130px" src"./cutted-R-photo.png">
   <h3>Hello world, I'm Rômulo Peres de Moraes</h3>
 </div>
 <div align="center">
