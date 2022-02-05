@@ -29,6 +29,9 @@ one of technologies and another of engineer. I needed to choose one of these, bu
 showed me some basics things about programming, like define variables in JS and logical decision with if/else
 , since this day i wanted work with technologies.
 
+### Some good repositories that you can like
+<img height="110px" src="https://github-readme-stats.vercel.app/api/pin/?username=Romulo-Moraes&repo=HttpLibrary&theme=tokyonight">
+
 #
 
 ### Well... is this. Hello World!
