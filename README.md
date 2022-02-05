@@ -1,5 +1,5 @@
 <div align="center">
-   <img style="border-radius:50%;" height="125px" src="./cutted-R-photo.png">
+   <img style="border-radius:50%;" height="125px" src="./firstImage.png">
   <h3>Hello world, I'm Rômulo Peres de Moraes</h3>
 </div>
 <div align="center">
