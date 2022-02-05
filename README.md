@@ -1,6 +1,6 @@
 <div align="center">
-   <img style="border-radius:50%;" height="125px" src="./firstImage.png">
-  <h3>Hello world, I'm Rômulo Peres de Moraes</h3>
+   <img style="border-radius:50%;" height="105px" src="./firstImage.png">
+   <h3>Hello world, I'm Rômulo Peres de Moraes</h3>
 </div>
 <div align="center">
   <img height="130px" src="https://github-readme-stats.vercel.app/api?username=Romulo-Moraes&theme=tokyonight&show_icons=true">
