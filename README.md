@@ -11,16 +11,16 @@
 <div>
       <h3>About Me</h3>
       <ul>
-         <li>💻 With focus in WEB Development i started in this world in 02/2019</li>  
-         <li>🎂 18 Years old</li>
-         <li>📘 Studying System Development</li>
-         <li>🏴󠁢󠁲󠁳󠁰󠁿 My current location is : São Paulo - Brazil</li>
+         <li>Enthusiastic for programming and how computer work 🖥️</li>
+         <li>My favorite sport is skateboarding ❤️</li>
+         <li>I resize in Brasil currently 🇧🇷</li>
+         <li>So aesthetic ✨</li>
       </ul>
      <h3>About my targets</h3>
      <ul>
-         <li>🍃 Be independent</li>
-         <li>🖥️ Be a good programmer</li>
-         <li>💰 Get my own cash</li>
+         <li>Be independent 🍃</li>
+         <li>Be a good programmer 🖥️</li>
+         <li>Get my own cash 💰</li>
       </ul>
 </div>
 
