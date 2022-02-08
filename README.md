@@ -45,7 +45,7 @@ showed me some basics things about programming, like define variables in JS and 
 
 #
 
-### Well... is this. Hello World!
+### Well... is that. Hello World!
 
 <div>
   <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
