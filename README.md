@@ -39,7 +39,7 @@ showed me some basics things about programming, like define variables in JS and 
    </div>
    <div>
       <img height="95px" src="https://github-readme-stats.vercel.app/api/pin/?username=Romulo-Moraes&repo=binconvert&theme=tokyonight">
-      <img height="95px" src="https://github-readme-stats.vercel.app/api/pin/?username=Romulo-Moraes&repo=Caesar-Cipher&theme=tokyonight">
+      <img height="95px" src="https://github-readme-stats.vercel.app/api/pin/?username=Romulo-Moraes&repo=zipCrafter&theme=tokyonight">
    </div>
 </div>
 
