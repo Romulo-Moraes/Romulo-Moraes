@@ -29,7 +29,7 @@
 Since my 14 years of old i don't knew what i will do of my life, my city has two good school, 
 one of technologies and another of engineer. I needed to choose one of these, but in a random day my cousin
 showed me some basics things about programming, like define variables in JS and logical decision with if/else
-, since this day i wanted work with technologies.
+,and that was an awesome thing to me,looking for how an complex machine just follow commands by reading text that i could write them, since this day i wanted work with technologies.
 
 <h2 align="center">Some good repositories that you would like</h2>
 <div align="center">
