@@ -37,6 +37,9 @@ showed me some basics things about programming, like define variables in JS and 
       <a href="https://github.com/Romulo-Moraes/colorizedPrint">
          <img height="95px" src="https://github-readme-stats.vercel.app/api/pin/?username=Romulo-Moraes&repo=colorizedPrint&theme=tokyonight">
       </a>
+      <a href="https://github.com/Romulo-Moraes/Windows-Netcat">
+         <img height="95px" src="https://github-readme-stats.vercel.app/api/pin/?username=Romulo-Moraes&repo=Windows-Netcat&theme=tokyonight">
+      </a>  
    </div>
    <div>
       <a href="https://github.com/Romulo-Moraes/HttpLibrary">
