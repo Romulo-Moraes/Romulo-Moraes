@@ -14,7 +14,6 @@
          <li>Enthusiastic for programming and how computer work 🖥️</li>
          <li>My favorite sport is skateboarding ❤️</li>
          <li>I reside in Brasil currently 🇧🇷</li>
-         <li>So aesthetic ✨</li>
       </ul>
      <h3>About my targets</h3>
      <ul>
