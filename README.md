@@ -23,7 +23,7 @@
       </ul>
 </div>
 
-### My History to be a programmer
+### My History to be a programmer 
 
 Since my 14 years of old i don't knew what i will do of my life, my city had two good school, 
 an of technologies and another of engineer. I needed to choose one of these and i really didn't knew what to do, but in a random day my cousin
