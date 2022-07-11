@@ -1,7 +1,7 @@
 <div align="center">
-   <img height="95px" src="./firstImage.png">
-   <h3>Hello world, I'm Rômulo Peres de Moraes</h3>
+   <img height="305px" src="./R.gif">
 </div>
+<br/>
 <div align="center">
   <img height="117px" src="https://github-readme-stats.vercel.app/api?username=Romulo-Moraes&theme=tokyonight&show_icons=true">
   <img height="117px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Romulo-Moraes&theme=tokyonight&layout=compact">
