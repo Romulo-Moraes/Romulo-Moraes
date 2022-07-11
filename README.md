@@ -37,9 +37,9 @@
 ### My computer languages
 
 <div>
-  <img align="center" height="40" width="50" src="https://th.bing.com/th/id/OIP.Q8fx3MyWSLm3iphA74htTgHaHa?pid=ImgDet&rs=1">
   <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+   <img align="center" height="40" width="50" src="https://th.bing.com/th/id/OIP.Q8fx3MyWSLm3iphA74htTgHaHa?pid=ImgDet&rs=1">
   <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+   <img align="center" height="40" width="50" src="https://p7.hiclipart.com/preview/889/976/939/the-c-programming-language-computer-programming-programming.jpg"/>
   <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" height="40" width="50" src="https://p7.hiclipart.com/preview/889/976/939/the-c-programming-language-computer-programming-programming.jpg"/>
 </div>
