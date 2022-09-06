@@ -1,8 +1,20 @@
 <div align="center">
    <img height="305px" src="./R.gif">
 </div>
+
 <br/>
+
 <div align="center">
+   Hello, my name is Rômulo Peres de Moraes but my nickname is Cipher, i just guess this name canny, you know. i'm a computer enthusiast and my focus in
+   this area is to learn learn as close as possible to exactly how the computer work. I like video games, skateboarding and listen music. Currently my
+   favorite programming language is C, for me there isn't thing more powerful than it.
+</div>
+
+<br/>
+<br/>
+
+<div align="center">
+   <p>My current status</p>
   <img height="117px" src="https://github-readme-stats.vercel.app/api?username=Romulo-Moraes&theme=tokyonight&show_icons=true">
   <img height="117px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Romulo-Moraes&theme=tokyonight&layout=compact">
 </div>
@@ -20,7 +32,7 @@
       </a>
       <a href="https://github.com/Romulo-Moraes/Battering-ram">
          <img height="95px" src="https://github-readme-stats.vercel.app/api/pin/?username=Romulo-Moraes&repo=R-matrix&theme=tokyonight">
-      </a>  
+      </a>
    </div>
    <div>
       <a href="https://github.com/Romulo-Moraes/Portal">
