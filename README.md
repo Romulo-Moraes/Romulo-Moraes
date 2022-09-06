@@ -26,8 +26,8 @@
       <a href="https://github.com/Romulo-Moraes/Portal">
          <img height="95px" src="https://github-readme-stats.vercel.app/api/pin/?username=Romulo-Moraes&repo=R-clock&theme=tokyonight">
       </a>
-      <a href="https://github.com/Romulo-Moraes/Noahs-ark">
-         <img height="95px" src="https://github-readme-stats.vercel.app/api/pin/?username=Romulo-Moraes&repo=Noahs-ark&theme=tokyonight">
+      <a href="https://github.com/Romulo-Moraes/Holiday">
+         <img height="95px" src="https://github-readme-stats.vercel.app/api/pin/?username=Romulo-Moraes&repo=Holiday&theme=tokyonight">
       </a>
    </div>
 </div>
