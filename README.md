@@ -47,17 +47,27 @@
 
 
 <h3>Assembly-Toolkit</h3>
-
 Assembly-Tool kit is a framework for low level programming made when i was learning this type of tool, but i still 
 developing it today too. This project has some code segments that implement some C standard functions, to goal of
 speed and simplicity, supporting currently only x86 and x64 instructions set, for Nasm assembler.
 
 
 <h3>R-matrix</h3>
-
 This is a program for Linux terminal written in C that simulate a matrix on screen, it is costumizable, characters
 and background color can be changed to another colors. The project use the library Holiday for argument parsing
 but this lib already is inside the project, beeing header-only.
+
+<h3>R-clock</h3>
+This is also a program for Linux terminal written in C that show a clock in terminal screen, has some costumizations
+like change clock color and date color, beyond let the clock most short too by just not showing the seconds of clock,
+useful to put in a small terminal window like a i3wm, etc... This program also use the Holiday library for argument parsing,
+but as already said, it's header only
+
+<h3>Holiday</h3>
+Holiday is a lightweight argument parser written in C for C programming language that allow to you accept optional arguments
+and positional arguments, both of them with some salt, like make optional argument required, short optional argument name like
+"-n foo" instead of "--name foo" is available too. This library try not break the good ways, because this the code and
+functions/macros/types is separated by files ".c" and ".h", in project's README.md explain much better how to use it.
 
 
 #
