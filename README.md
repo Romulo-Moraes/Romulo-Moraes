@@ -1,4 +1,4 @@
-<h1>Hello, i'm Rômulo Peres 👋</h1>
+<h1>Hello, i'm Rômulo "Cipher" Peres 👋</h1>
 
 Hello, my name is Rômulo Peres de Moraes but my nickname is Cipher, i just guess this name canny, you know. i'm a computer enthusiast and my focus in
 this area is to learn learn as close as possible to exactly how the computer work. I like video games, skateboarding and listen music. Currently my
