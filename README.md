@@ -28,9 +28,9 @@ developing it today too. This project has some code segments that implement some
 speed and simplicity, supporting currently only x86 and x64 instructions set, for Nasm assembler.
 
 <h2>R-matrix 💻</h2>
-This is a program for Linux terminal written in C that simulate a matrix on screen, it is costumizable, characters
-and background color can be changed to another colors. The project use the library Holiday for argument parsing
-but this lib already is inside the project, beeing header-only.
+This is a program for Linux terminal written in Rust that simulate a matrix on screen, it is costumizable, characters
+and background color can be changed to another colors and operations speeds is costumizable too. This project already 
+existed written in C programming language, however, was used by me to learn a bit more about Rust.
 
 <h2>R-clock 🕐</h2>
 This is also a program for Linux terminal written in C that show a clock in terminal screen, has some costumizations
