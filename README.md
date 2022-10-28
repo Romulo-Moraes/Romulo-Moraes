@@ -35,8 +35,7 @@ existed written in C programming language, however, was used by me to learn a bi
 <h2>R-clock 🕐</h2>
 This is also a program for Linux terminal written in C that show a clock in terminal screen, has some costumizations
 like change clock color and date color, beyond let the clock most short too by just not showing the seconds of clock,
-useful to put in a small terminal window like a i3wm, etc... This program also use the Holiday library for argument parsing,
-but as already said, it's header only
+useful to put in a small terminal window like a i3wm, etc... This program also use the Holiday library for argument parsing.
 
 <h2>Holiday 🏖️</h2>
 Holiday is a lightweight argument parser written in C for C programming language that allow to you accept optional arguments
