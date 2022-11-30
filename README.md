@@ -2,7 +2,7 @@
 
 
 Hello, my name is Rômulo Peres de Moraes but my nickname is Cipher, i just guess this name canny, you know. i'm a computer enthusiast and my focus in
-this area is to learn learn as close as possible to exactly how the computer work. I like video games, skateboarding and listen music. Currently my
+this area is to learn as close as possible the exactly of how the computer works. I like video games, skateboarding and listen music. Currently my
 favorite programming language is C, for me there isn't thing more powerful than it.
 
 <h1>Some good repositories that you would like</h1>
