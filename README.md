@@ -38,10 +38,10 @@ like change clock color and date color, allowing you to make the clock shorter t
 useful to put in a small terminal window like a i3wm, etc...
 
 <h2>Holiday 🏖️</h2>
-Holiday is a lightweight argument parser written in C for C programming language that allow to you accept optional arguments
+Holiday is a lightweight argument parser written in C for C programming language that allow you accept optional
 and positional arguments, both of them with some salt, like make optional argument required, short optional argument name like
-"-n foo" instead of "--name foo" is available too. This library try not break the good ways, to deal with this, the code,
-functions, macros and types is separated by files ".c" and ".h", in project's README.md explain much better how to use it.
+"-n foo" instead of "--name bar" is available too. This library try not break the good ways, to deal with this, the code,
+functions, macros and types is separated by files ".c" and ".h". The project's README.md explain much better how to use it.
 
 
 <h1>My status 📖</h1>
