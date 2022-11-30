@@ -28,20 +28,20 @@ developing it today too. This project has some code segments that implement some
 speed and simplicity, supporting currently only x86 and x64 instructions set, for Nasm assembler.
 
 <h2>R-matrix 💻</h2>
-This is a program for Linux terminal written in Rust that simulate a matrix on screen, it is costumizable, characters
+This is a program for terminal written in Rust that simulate a matrix on screen, it is costumizable, characters
 and background color can be changed to another colors and operations speeds is costumizable too. This project already 
 existed written in C programming language, however, was used by me to learn a bit more about Rust.
 
 <h2>R-clock 🕐</h2>
-This is also a program for Linux terminal written in C that show a clock in terminal screen, has some costumizations
-like change clock color and date color, beyond let the clock most short too by just not showing the seconds of clock,
-useful to put in a small terminal window like a i3wm, etc... This program also use the Holiday library for argument parsing.
+This is a program that show a digital clock in terminal screen, and it has some costumizations
+like change clock color and date color, allowing you to make the clock shorter too, by just not showing the seconds,
+useful to put in a small terminal window like a i3wm, etc...
 
 <h2>Holiday 🏖️</h2>
 Holiday is a lightweight argument parser written in C for C programming language that allow to you accept optional arguments
 and positional arguments, both of them with some salt, like make optional argument required, short optional argument name like
-"-n foo" instead of "--name foo" is available too. This library try not break the good ways, because this the code and
-functions/macros/types is separated by files ".c" and ".h", in project's README.md explain much better how to use it.
+"-n foo" instead of "--name foo" is available too. This library try not break the good ways, to deal with this, the code,
+functions, macros and types is separated by files ".c" and ".h", in project's README.md explain much better how to use it.
 
 
 <h1>My status 📖</h1>
