@@ -1,7 +1,7 @@
 <h1>Hello, i'm Rômulo <mark> "Cypher" </mark> Moraes 👋</h1>
 
 
-Hello, my name is Rômulo Peres de Moraes but my nickname is Cipher, i just guess this name canny, you know. i'm a computer enthusiast and my focus in
+Hello, my name is Rômulo Peres de Moraes, but my nickname is Cypher, i just guess this name canny, you know. i'm a computer enthusiast and my focus in
 this area is to learn as close as possible the exactly of how the computer works. I like video games, skateboarding and listen music. Currently my
 favorite programming language is C, for me there is no thing more powerful than it.
 
