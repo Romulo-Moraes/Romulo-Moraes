@@ -1,3 +1,5 @@
+<img align="right" width="260" height="250" src="https://media0.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47zfvkx09jcvinzxgzu1k5u3hq0c8451bqf8w70uub&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+
 <h1>Hello, i'm Rômulo <mark> "Cypher" </mark> Moraes 👋</h1>
 
 
@@ -60,10 +62,16 @@ functions, macros and types is separated by files ".c" and ".h". The project's R
 ### My computer languages
 
 <div>
-   <img align="center" height="40" width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZY24RZqAwqT0BiVAlMya8WWDqbPtgfysOqA&usqp=CAU">
-   <img align="center" height="40" width="50" src="https://th.bing.com/th/id/OIP.Q8fx3MyWSLm3iphA74htTgHaHa?pid=ImgDet&rs=1">
+   <!--<img align="center" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg">-->
+   <img align="center" height="45" width="60" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
    <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-   <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-   <img align="center" height="40" width="50" src="https://p7.hiclipart.com/preview/889/976/939/the-c-programming-language-computer-programming-programming.jpg"/>
-  <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+   <img align="center" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
+   <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+   <img align="center" height="45" width="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+</div>
+
+### My operating system
+
+<div>
+   <img align="center" height="50" width="50" src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg">   
 </div>
