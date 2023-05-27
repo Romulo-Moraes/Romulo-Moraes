@@ -37,12 +37,13 @@ speed and simplicity, supporting currently only x86 and x64 instructions set, fo
 
 <h2>R-matrix 💻</h2>
 This is a program for terminal written in Rust that simulate a matrix on screen, it is costumizable, characters
-and background color can be changed to another colors and operations speeds is costumizable too. This project already 
-existed written in C programming language, however, was used by me to learn a bit more about Rust.
+and background color can be changed to another colors. There're costumizations for operations' speed, like the 
+delay to create a new string of characters on screen or the delay of pull down a string of characters. This project
+already existed written in the C programming language, however, was used by me to learn a bit more about Rust.
 
 <h2>R-clock 🕐</h2>
 This is a program that show a digital clock in terminal screen, and it has some costumizations
-like change clock color and date color, allowing you to make the clock shorter too, by just not showing the seconds,
+like change clock and date color, there's a feature of make the clock smaller, by just not showing the seconds,
 useful to put in a small terminal window like a i3wm, etc...
 
 <!--
