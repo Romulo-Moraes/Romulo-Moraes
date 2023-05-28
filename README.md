@@ -1,4 +1,7 @@
-<img align="right" width="260" height="220" src="https://media0.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47zfvkx09jcvinzxgzu1k5u3hq0c8451bqf8w70uub&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+<img align="right" width="260" height="220" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e476kycane92f9mjkwhkpji4f6uttej3lx9vl2z3uhb&ep=v1_gifs_related&rid=giphy.gif&ct=g">
+
+
+<!--https://media0.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47zfvkx09jcvinzxgzu1k5u3hq0c8451bqf8w70uub&ep=v1_gifs_search&rid=giphy.gif&ct=g-->
 
 <h1>Hello, i'm Rômulo <mark> "Cypher" </mark> Moraes 👋</h1>
 
