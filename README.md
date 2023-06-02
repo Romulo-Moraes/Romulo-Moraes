@@ -68,8 +68,8 @@ functions, macros and types is separated by files ".c" and ".h". The project's R
 <div>
    <!--<img align="center" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg">-->
    <img align="center" height="45" width="60" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
-   <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align="center" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
+   <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="center" height="45" width="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
 </div>
