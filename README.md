@@ -24,6 +24,10 @@ favorite programming language is C, for me there is no thing more powerful than 
    <a href="https://github.com/Romulo-Moraes/R-clock">
       <img height="95px" src="https://github-readme-stats.vercel.app/api/pin/?username=Romulo-Moraes&repo=R-clock&theme=tokyonight">
    </a>
+   <br/>
+   <a href="https://github.com/Romulo-Moraes/Anemone">
+      <img height="95px" src="https://github-readme-stats.vercel.app/api/pin/?username=Romulo-Moraes&repo=Anemone&theme=tokyonight">
+   </a>
    <!--
    <a href="https://github.com/Romulo-Moraes/Holiday">
       <img height="95px" src="https://github-readme-stats.vercel.app/api/pin/?username=Romulo-Moraes&repo=Holiday&theme=tokyonight">
@@ -49,13 +53,10 @@ This is a program that show a digital clock in terminal screen, and it has some 
 like change clock and date color, there's a feature of make the clock smaller, by just not showing the seconds,
 useful to put in a small terminal window like a i3wm, etc...
 
-<!--
-<h2>Holiday 🏖️</h2>
-Holiday is a lightweight argument parser written in C for C programming language that allow you accept optional
-and positional arguments, both of them with some salt, like make optional argument required, short optional argument name like
-"-n foo" instead of "--name bar" is available too. This library try not break the good ways, to deal with this, the code,
-functions, macros and types is separated by files ".c" and ".h". The project's README.md explain much better how to use it.
--->
+<h2>Anemone</h2>
+Anemone is a small library written in C for C programming language that has the final goal of be a command-line
+argument parser, working currently with positional arguments and optional arguments. The project contains the 
+whole documentation in the main README.md file and in some issues with the label 'documentation'.
 
 <h1>My status 📖</h1>
 <div>
