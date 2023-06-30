@@ -53,7 +53,7 @@ This is a program that show a digital clock in terminal screen, and it has some 
 like change clock and date color, there's a feature of make the clock smaller, by just not showing the seconds,
 useful to put in a small terminal window like a i3wm, etc...
 
-<h2>Anemone</h2>
+<h2>Anemone 🐟</h2>
 Anemone is a small library written in C for C programming language that has the final goal of be a command-line
 argument parser, working currently with positional arguments and optional arguments. The project contains the 
 whole documentation in the main README.md file and in some issues with the label 'documentation'.
