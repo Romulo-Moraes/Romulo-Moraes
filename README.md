@@ -69,8 +69,8 @@ that are inside the Assembly-Toolkit the things may be easier.
 
 ### My human languages
 <ul>
-   <li>Portuguese</li>
-   <li>English</li>
+   <li>Portuguese 🇧🇷</li>
+   <li>English 🇺🇸</li>
 </ul>
 
 ### My operating system
