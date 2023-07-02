@@ -53,7 +53,7 @@ that are inside the Assembly-Toolkit the things may be easier.
 <h1>My status 📖</h1>
 <div>
    <img height="117px" src="https://github-readme-stats.vercel.app/api?username=Romulo-Moraes&theme=tokyonight&show_icons=true">
-   <img height="117px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Romulo-Moraes&theme=tokyonight&layout=donut&langs_count=4">
+   <img height="117px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Romulo-Moraes&theme=tokyonight&layout=compact&langs_count=4">
 </div>
 
 ### My computer languages
