@@ -13,11 +13,6 @@ favorite programming language is C, for me there is no thing more powerful than 
 <h1>Some good repositories that you could like</h1>
 
 <div>
-   <!--
-   <a href="https://github.com/Romulo-Moraes/Assembly-Toolkit">
-      <img height="95px" src="https://github-readme-stats.vercel.app/api/pin/?username=Romulo-Moraes&repo=Assembly-Toolkit&theme=tokyonight">
-   </a>
-   -->
    <a href="https://github.com/Romulo-Moraes/R-matrix">
       <img height="95px" src="https://github-readme-stats.vercel.app/api/pin/?username=Romulo-Moraes&repo=R-matrix&theme=tokyonight">
    </a>
@@ -28,19 +23,10 @@ favorite programming language is C, for me there is no thing more powerful than 
    <a href="https://github.com/Romulo-Moraes/Anemone">
       <img height="95px" src="https://github-readme-stats.vercel.app/api/pin/?username=Romulo-Moraes&repo=Anemone&theme=tokyonight">
    </a>
-   <!--
-   <a href="https://github.com/Romulo-Moraes/Holiday">
-      <img height="95px" src="https://github-readme-stats.vercel.app/api/pin/?username=Romulo-Moraes&repo=Holiday&theme=tokyonight">
+   <a href="https://github.com/Romulo-Moraes/Assembly-Toolkit">
+      <img height="95px" src="https://github-readme-stats.vercel.app/api/pin/?username=Romulo-Moraes&repo=Assembly-Toolkit&theme=tokyonight">
    </a>
-   -->
 </div>
-
-<!--
-<h2>Assembly-Toolkit ⚙️</h2>
-Assembly-Tool kit is a framework for low level programming made when i was learning this type of tool, but i still 
-developing it today too. This project has some code segments that implement some C standard functions, to goal of
-speed and simplicity, supporting currently only x86 and x64 instructions set, for Nasm assembler.
--->
 
 <h2>R-matrix 💻</h2>
 This is a program for terminal written in Rust that simulate a matrix on screen, it is costumizable, characters
@@ -58,10 +44,16 @@ Anemone is a small library written in C for C programming language that has the 
 argument parser, working currently with positional arguments and optional arguments. The project contains the 
 whole documentation in the main README.md file and in some issues with the label 'documentation'.
 
+<h2>Assembly-Toolkit ⚙️</h2>
+This repository is a project that contains the basic knowledge about the Assembly language, the necessary runway to take
+off when the subject is the low-level coding. This repository covers things about memory segments, stack, registers, opcodes
+and more. Assembly language is really tough, even more whether you never saw a code with this tool, but with the help of the sections
+that are inside the Assembly-Toolkit the things may be easier.
+
 <h1>My status 📖</h1>
 <div>
    <img height="117px" src="https://github-readme-stats.vercel.app/api?username=Romulo-Moraes&theme=tokyonight&show_icons=true">
-   <img height="117px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Romulo-Moraes&theme=tokyonight&layout=compact">
+   <img height="117px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Romulo-Moraes&theme=tokyonight&layout=donut&langs_count=4">
 </div>
 
 ### My computer languages
