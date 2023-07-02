@@ -67,6 +67,12 @@ that are inside the Assembly-Toolkit the things may be easier.
    <img align="center" height="45" width="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
 </div>
 
+### My human languages
+<ul>
+   <li>Portuguese</li>
+   <li>English</li>
+</ul>
+
 ### My operating system
 
 <div>
