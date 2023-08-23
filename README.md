@@ -78,3 +78,18 @@ that are inside the Assembly-Toolkit the things may be easier.
 <div>
    <img align="center" height="50" width="50" src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg">   
 </div>
+
+<!--
+    ------------------
+   //     _____      \\
+  //     |  __ \      \\
+ //      | |__) |      \\
+//       |  _  /        \\
+\\       | | \ \        //
+ \\      |_|  \_\      //
+  \\    __________    //
+   \\                //
+   --------------------
+   | Rômulo P. Moraes |
+   --------------------
+-->
