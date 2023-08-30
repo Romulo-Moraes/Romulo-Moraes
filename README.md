@@ -1,4 +1,4 @@
-<img align="right" width="260" height="220" src="CypherBoy.gif">
+<img align="right" width="260" height="210" src="CypherBoy.gif">
 
 
 <!--https://media0.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47zfvkx09jcvinzxgzu1k5u3hq0c8451bqf8w70uub&ep=v1_gifs_search&rid=giphy.gif&ct=g-->
@@ -35,8 +35,8 @@ delay to create a new string of characters on screen or the delay of pull down a
 already existed written in the C programming language, however, was used by me to learn a bit more about Rust.
 
 <h2>R-clock 🕐</h2>
-This is a program that show a digital clock in terminal screen, and it has some costumizations
-like change clock and date color, there's a feature of make the clock smaller, by just not showing the seconds,
+This is a program that shows a digital clock in terminal screen, and it contains some costumizations,
+like change clock and date color, make the clock smaller (by just not showing the seconds),
 useful to put in a small terminal window like a i3wm, etc...
 
 <h2>Anemone 🐟</h2>
