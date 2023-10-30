@@ -3,7 +3,7 @@
 
 <!--https://media0.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47zfvkx09jcvinzxgzu1k5u3hq0c8451bqf8w70uub&ep=v1_gifs_search&rid=giphy.gif&ct=g-->
 
-<h1 align="center">🛡 Rômulo "Cypher" Moraes 🛡️</h1>
+<h1 align="center">{ &nbsp; Rômulo "Cypher" Moraes &nbsp; }</h1>
 
 
 Hello, my name is Rômulo Peres de Moraes, but my nickname is Cypher, i just guess this name canny, you know. i'm a computer enthusiast and my focus in
