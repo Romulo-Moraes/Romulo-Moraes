@@ -3,13 +3,15 @@
 
 <!--https://media0.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47zfvkx09jcvinzxgzu1k5u3hq0c8451bqf8w70uub&ep=v1_gifs_search&rid=giphy.gif&ct=g-->
 
+<img align="right" width="260" height="210" src="CypherBoy.gif">
+
 <h1 align="center">{ &nbsp; Rômulo "Cypher" Moraes &nbsp; }</h1>
 
 Hello, my name is Rômulo Peres de Moraes, but my nickname is Cypher, i just guess this name canny, you know. i'm a computer enthusiast and my focus in
 this area is to learn as close as possible the exactly of how the computer works. I like video games, skateboarding and listen music. Currently my
 favorite programming language is C, for me there is no thing more powerful than it.
 
-<img align="center" width="260" height="210" src="CypherBoy.gif">
+
 
 <h1>Some good repositories that you could like</h1>
 
