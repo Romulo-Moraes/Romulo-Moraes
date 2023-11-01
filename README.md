@@ -9,7 +9,7 @@ Hello, my name is Rômulo Peres de Moraes, but my nickname is Cypher, i just gue
 this area is to learn as close as possible the exactly of how the computer works. I like video games, skateboarding and listen music. Currently my
 favorite programming language is C, for me there is no thing more powerful than it.
 
-<div><img align="center" width="260" height="210" src="CypherBoy.gif"></div>
+<img align="center" width="260" height="210" src="CypherBoy.gif">
 
 <h1>Some good repositories that you could like</h1>
 
