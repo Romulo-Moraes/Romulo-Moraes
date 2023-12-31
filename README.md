@@ -59,8 +59,14 @@ that are inside the Assembly-Toolkit the things may be easier.
    <img height="117px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Romulo-Moraes&theme=tokyonight&layout=compact&langs_count=4">
 </div>
 
-### My computer languages
+### My tools
+<div>
+   <img align="center" height="55" width="50" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
+   <img align="center" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+   <img align="center" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
+</div>
 
+### My computer languages
 <div>
    <!--<img align="center" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg">-->
    <img align="center" height="45" width="60" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
@@ -79,9 +85,9 @@ that are inside the Assembly-Toolkit the things may be easier.
 ### My operating system
 
 <div>
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    <img align="center" height="50" width="50" src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg">   
-   <p>Arch Linux (btw)</p>
+   <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Arch Linux (btw)</p>
 </div>
 
 <!--
