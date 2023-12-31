@@ -64,6 +64,7 @@ that are inside the Assembly-Toolkit the things may be easier.
    <img align="center" height="55" width="50" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
    <img align="center" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
    <img align="center" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
+   <img align="center" height="50" width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4_6FbQSnQ0eIfkI-9Y9NK0Y0qNtUuqcnOnw&usqp=CAU">
 </div>
 
 ### My computer languages
