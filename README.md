@@ -85,9 +85,9 @@ that are inside the Assembly-Toolkit the things may be easier.
 ### My operating system
 
 <div>
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    <img align="center" height="50" width="50" src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg">   
-   <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Arch Linux (btw)</p>
+   <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Arch Linux (btw)</p>
 </div>
 
 <!--
