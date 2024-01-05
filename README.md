@@ -33,8 +33,8 @@ favorite programming language is C, for me there is no thing more powerful than 
 
 <h2>R-matrix 💻</h2>
 This is a program for terminal written in Rust that simulate a matrix on screen, it is costumizable, characters
-and background color can be changed to another colors. There're costumizations for operations' speed, like the 
-delay to create a new string of characters on screen or the delay of pull down a string of characters. This project
+and background color can be changed to another colors. There're costumizations for operations' speed, a good example of that
+the is the delay to create a new string of characters on screen or the delay of pull down a string of characters. This project
 already existed written in the C programming language, however, was used by me to learn a bit more about Rust.
 
 <h2>Rclock 🕐</h2>
