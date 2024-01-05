@@ -20,7 +20,7 @@ favorite programming language is C, for me there is no thing more powerful than 
       <img height="95px" src="https://github-readme-stats.vercel.app/api/pin/?username=Romulo-Moraes&repo=R-matrix&theme=tokyonight">
    </a>
    <a href="https://github.com/Romulo-Moraes/Rclock">
-      <img height="95px" src="https://github-readme-stats.vercel.app/api/pin/?username=Romulo-Moraes&repo=R-clock&theme=tokyonight">
+      <img height="95px" src="https://github-readme-stats.vercel.app/api/pin/?username=Romulo-Moraes&repo=Rclock&theme=tokyonight">
    </a>
    <br/>
    <a href="https://github.com/Romulo-Moraes/Anemone">
