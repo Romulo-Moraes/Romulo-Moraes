@@ -19,7 +19,7 @@ favorite programming language is C, for me there is no thing more powerful than 
    <a href="https://github.com/Romulo-Moraes/R-matrix">
       <img height="95px" src="https://github-readme-stats.vercel.app/api/pin/?username=Romulo-Moraes&repo=R-matrix&theme=tokyonight">
    </a>
-   <a href="https://github.com/Romulo-Moraes/R-clock">
+   <a href="https://github.com/Romulo-Moraes/Rclock">
       <img height="95px" src="https://github-readme-stats.vercel.app/api/pin/?username=Romulo-Moraes&repo=R-clock&theme=tokyonight">
    </a>
    <br/>
@@ -37,10 +37,10 @@ and background color can be changed to another colors. There're costumizations f
 delay to create a new string of characters on screen or the delay of pull down a string of characters. This project
 already existed written in the C programming language, however, was used by me to learn a bit more about Rust.
 
-<h2>R-clock 🕐</h2>
-This is a program that shows a digital clock in terminal screen, and it contains some costumizations,
-like change clock and date color, make the clock smaller (by just not showing the seconds),
-useful to put in a small terminal window like a i3wm, etc...
+<h2>Rclock 🕐</h2>
+The Rclock is a digital terminal clock for POSIX systems, fully customizable with colors and datetime features.
+This repository is fully documented, for final users and for developers that may create new features or for maintenance reasons.
+the included features of the Rclock are change the color of the components, optionally hide the date and the seconds, set a custom date and so on...
 
 <h2>Anemone 🐟</h2>
 Anemone is a small library written in C for C programming language that has the final goal of be a command-line
