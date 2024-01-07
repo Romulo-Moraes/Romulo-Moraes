@@ -50,8 +50,7 @@ whole documentation in the main README.md file and in some issues with the label
 <h2>Assembly-Toolkit ⚙️</h2>
 This repository is a project that contains the basic knowledge about the Assembly language, the necessary runway to take
 off when the subject is the low-level coding. This repository covers things about memory segments, stack, registers, opcodes
-and more. Assembly language is really tough, even more whether you never saw a code with this tool, but with the help of the sections
-that are inside the Assembly-Toolkit the things may be easier.
+and more.
 
 <h1>My status 📖</h1>
 <div>
