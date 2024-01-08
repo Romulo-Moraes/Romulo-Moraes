@@ -55,6 +55,7 @@ whole documentation in the main README.md file and in some issues with the label
    <img height="117px" src="https://github-readme-stats.vercel.app/api?username=Romulo-Moraes&theme=tokyonight&show_icons=true">
    <img height="117px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Romulo-Moraes&theme=tokyonight&layout=compact&langs_count=4">
 </div>
+<sup>Reload the page if they didn't appear ;)</sup>
 
 ### My tools
 <div>
