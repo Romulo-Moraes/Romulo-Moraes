@@ -16,39 +16,39 @@ favorite programming language is C, for me there is no thing more powerful than 
 <h1>Some good repositories that you could like</h1>
 
 <div>
-   <a href="https://github.com/Romulo-Moraes/R-matrix">
-      <img height="95px" src="https://github-readme-stats.vercel.app/api/pin/?username=Romulo-Moraes&repo=R-matrix&theme=tokyonight">
-   </a>
    <a href="https://github.com/Romulo-Moraes/Rclock">
       <img height="95px" src="https://github-readme-stats.vercel.app/api/pin/?username=Romulo-Moraes&repo=Rclock&theme=tokyonight">
    </a>
-   <br/>
-   <a href="https://github.com/Romulo-Moraes/Anemone">
-      <img height="95px" src="https://github-readme-stats.vercel.app/api/pin/?username=Romulo-Moraes&repo=Anemone&theme=tokyonight">
+   <a href="https://github.com/Romulo-Moraes/R-matrix">
+      <img height="95px" src="https://github-readme-stats.vercel.app/api/pin/?username=Romulo-Moraes&repo=R-matrix&theme=tokyonight">
    </a>
+   <br/>
    <a href="https://github.com/Romulo-Moraes/Assembly-Toolkit">
       <img height="95px" src="https://github-readme-stats.vercel.app/api/pin/?username=Romulo-Moraes&repo=Assembly-Toolkit&theme=tokyonight">
    </a>
+   <a href="https://github.com/Romulo-Moraes/Anemone">
+      <img height="95px" src="https://github-readme-stats.vercel.app/api/pin/?username=Romulo-Moraes&repo=Anemone&theme=tokyonight">
+   </a>
 </div>
-
-<h2>R-matrix 💻</h2>
-R-matrix uses some features of the modern terminals to create the illusion of a matrix effect. The project has customizable features that make the matrix more attractive and behaves the way you like most. Some included customizations are: Set new colors to the matrix and change the speed of its operations. This project 
-is fully written using the Rust programming language.
 
 <h2>Rclock 🕐</h2>
 The Rclock is a digital terminal clock for POSIX systems, fully customizable with colors and datetime features.
 This repository is fully documented, for final users and for developers that may create new features or for maintenance reasons.
 the included features of the Rclock are change the color of the components, optionally hide the date and the seconds, set a custom date and so on...
 
-<h2>Anemone 🐟</h2>
-Anemone is a small library written in C for C programming language that has the final goal of be a command-line
-argument parser, working currently with positional arguments and optional arguments. The project contains the 
-whole documentation in the main README.md file and in some issues with the label 'documentation'.
+<h2>R-matrix 💻</h2>
+R-matrix uses some features of the modern terminals to create the illusion of a matrix effect. The project has customizable features that make the matrix more attractive and behaves the way you like most. Some included customizations are: Set new colors to the matrix and change the speed of its operations. This project 
+is fully written using the Rust programming language.
 
 <h2>Assembly-Toolkit ⚙️</h2>
 This repository is a project that contains the basic knowledge about the Assembly language, the necessary runway to take
 off when the subject is the low-level coding. This repository covers things about memory segments, stack, registers, opcodes
 and more.
+
+<h2>Anemone 🐟</h2>
+Anemone is a small library written in C for C programming language that has the final goal of be a command-line
+argument parser, working currently with positional arguments and optional arguments. The project contains the 
+whole documentation in the main README.md file and in some issues with the label 'documentation'.
 
 <h1>My status 📖</h1>
 <div>
