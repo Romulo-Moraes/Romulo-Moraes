@@ -1,8 +1,3 @@
-
-
-
-<!--https://media0.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47zfvkx09jcvinzxgzu1k5u3hq0c8451bqf8w70uub&ep=v1_gifs_search&rid=giphy.gif&ct=g-->
-
 <img align="right" width="260" height="210" src="CypherBoy.gif">
 
 <h1 align="center">{ &nbsp; Rômulo "Cypher" Moraes &nbsp; }</h1>
@@ -10,8 +5,6 @@
 Hello, my name is Rômulo Peres de Moraes, but my nickname is Cypher, i just guess this nickname canny, you know. i'm a computer enthusiast and my focus in
 this area is to learn how the computer works. I like video games, skateboarding and listen music. Currently my
 favorite programming language is C, for me there is no thing more powerful than it.
-
-
 
 <h1>Some good repositories that you could like</h1>
 
@@ -67,7 +60,6 @@ whole documentation in the main README.md file and in some issues with the label
 
 ### My computer languages
 <div>
-   <!--<img align="center" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg">-->
    <img align="center" height="45" width="60" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
    <img align="center" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
    <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
