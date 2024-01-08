@@ -32,10 +32,8 @@ favorite programming language is C, for me there is no thing more powerful than 
 </div>
 
 <h2>R-matrix 💻</h2>
-This is a application for terminal written in Rust that simulates a matrix on screen with customization features, the matrix characters
-and background can have their colors changed. There are also costumizations for the application's behaviors, you can change the required 
-amount of time to create new character chains  on screen and how quickly such chains are pulled down to generate the matrix effect. This project
-already existed written in the C programming language, however, was used by me to learn a bit more about Rust.
+R-matrix uses some features of the modern terminals to create the illusion of a matrix effect. The project has customizable features that make the matrix more attractive and behaves the way you like most. Some included customizations are: Set new colors to the matrix and change the speed of its operations. This project 
+is fully written using the Rust programming language.
 
 <h2>Rclock 🕐</h2>
 The Rclock is a digital terminal clock for POSIX systems, fully customizable with colors and datetime features.
