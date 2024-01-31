@@ -35,7 +35,7 @@ is fully written using the Rust programming language.
 
 <h2>Assembly-Toolkit ⚙️</h2>
 This repository is a project that contains the basic knowledge about the Assembly language, the necessary runway to take
-off when the subject is the low-level coding. This repository covers things about memory segments, stack, registers, opcodes
+off when the subject is the low-level coding. This repository covers topics about memory segments, stack, registers, opcodes
 and more.
 
 <h2>Anemone 🐟</h2>
