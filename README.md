@@ -27,21 +27,16 @@ favorite programming language is C, for me there is no thing more powerful than 
 <h2>Rclock 🕐</h2>
 The Rclock is a digital terminal clock for POSIX systems, fully customizable with colors and datetime features.
 This repository is fully documented, for final users and for developers that may create new features or for maintenance reasons.
-the included features of the Rclock are change the color of the components, optionally hide the date and the seconds, set a custom date and so on...
+The included features of the Rclock are: customize the color of the components, optionally hide the date and the seconds, set a custom date and so on...
 
 <h2>R-matrix 💻</h2>
-R-matrix uses some features of the modern terminals to create the illusion of a matrix effect. The project has customizable features that make the matrix more attractive and behaves the way you like most. Some included customizations are: Set new colors to the matrix and change the speed of its operations. This project 
-is fully written using the Rust programming language.
+The "R-matrix" project utilizes certain features of modern terminals to simulate a matrix effect. It offers customizable features, allowing users to enhance the visual appeal and behaviors of the matrix. Some included customizations involve setting new colors for the matrix, adjusting the speed of its operations, and more. The entire project is implemented using the Rust programming language.
 
 <h2>Assembly-Toolkit ⚙️</h2>
-This repository is a project that contains the basic knowledge about the Assembly language, the necessary runway to take
-off when the subject is the low-level coding. This repository covers topics about memory segments, stack, registers, opcodes
-and more.
+This repository contains a considerable information about the Assembly language, providing the essential resources for diving into low-level programming. It covers topics about memory segments, stack, registers, opcodes and more.
 
 <h2>Anemone 🐟</h2>
-Anemone is a small library written in C for C programming language that has the final goal of be a command-line
-argument parser, working currently with positional arguments and optional arguments. The project contains the 
-whole documentation in the main README.md file and in some issues with the label 'documentation'.
+Anemone is a compact C library designed for the C programming language, with the ultimate aim of serving as a command-line argument parser. Currently, it effectively handles positional and optional arguments. The documentation for the project is available in the main README.md file and within specific issues marked with the 'documentation' label.
 
 <h1>My status 📖</h1>
 <div>
