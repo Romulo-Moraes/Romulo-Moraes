@@ -21,6 +21,7 @@ Hey! My name is Rômulo Peres de Moraes, a passionate computer enthusiast dedica
       <img height="95px" src="https://github-readme-stats.vercel.app/api/pin/?username=Romulo-Moraes&repo=Stars&theme=tokyonight">
    </a>
 </div>
+
 <h2>⚙️ Assembly-Toolkit ⚙️</h2>
 This repository contains a considerable information about the Assembly language, providing the essential resources for diving into low-level programming. It covers topics about memory segments, stack, registers, opcodes and more.
 
@@ -53,19 +54,24 @@ Anemone is a compact C library designed for the C programming language, with the
    <img align="center" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
    <img align="center" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
    <img align="center" height="50" width="50" src="./Github.png">
+   &nbsp;
+   <img align="center" height="50" width="45" src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png">
+   &nbsp;
+   <img align="center" height="50" width="50" src="https://seeklogo.com/images/N/netwide-assembler-nasm-logo-EC5B1109AC-seeklogo.com.png">
 </div>
 
-### My computer languages
+### My technologies
 <div>
    <img align="center" height="45" width="60" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
    <img align="center" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
+      <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/typescript/typescript-original.svg">
    <img align="center" height="55" width="55" src="Asm icon.png">
    <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="center" height="45" width="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
 </div>
 
-### My human languages
+### My languages
 <ul>
    <li>Portuguese 🇧🇷</li>
    <li>English 🇺🇸</li>
