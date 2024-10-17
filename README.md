@@ -34,7 +34,7 @@ The included features of the Rclock are: customize the color of the components, 
 Stars was primarily a small program that I wrote to compose my setup a few months ago. It only took a few minutes to write it that day; however, I rewrote the source code to make it available on my Github. Some features have been added to the program to make it suitable for more environments.
 
 <h2>💻 R-matrix 💻</h2>
-The "R-matrix" project utilizes certain features of modern terminals to simulate a matrix effect. It offers customizable features, allowing users to enhance the visual appeal and behaviors of the matrix. Some included customizations involve setting new colors for the matrix, adjusting the speed of its operations, and more. The entire project is implemented using the Rust programming language.
+The R-matrix project utilizes certain features of modern terminals to simulate a matrix effect. It offers customizable features, allowing users to enhance the visual appeal and behaviors of the matrix. Some included customizations involve setting new colors for the matrix, adjusting the speed of its operations and more. The entire project is implemented using the Rust programming language.
 
 <!--
 <h2>Anemone 🐟</h2>
