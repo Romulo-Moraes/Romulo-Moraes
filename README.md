@@ -18,7 +18,7 @@ Hey! My name is Rômulo Peres de Moraes, a passionate computer enthusiast dedica
       <img height="95px" src="https://github-readme-stats.vercel.app/api/pin/?username=Romulo-Moraes&repo=Assembly-Toolkit&theme=tokyonight">
    </a>
    <a href="https://github.com/Romulo-Moraes/Stars">
-      <img height="95px" src="https://github-readme-stats.vercel.app/api/pin/?username=Romulo-Moraes&repo=Stars&theme=tokyonight">
+      <img height="95px" src="https://github-readme-stats.vercel.app/api/pin/?username=Romulo-Moraes&repo=Icewall&theme=tokyonight">
    </a>
 </div>
 
@@ -30,8 +30,8 @@ The Rclock is a digital terminal clock for POSIX systems, fully customizable wit
 This repository is fully documented, for final users and for developers that may create new features or for maintenance reasons.
 The included features of the Rclock are: customize the color of the components, optionally hide the date and the seconds, set a custom date and so on...
 
-<h2>⭐ Stars ⭐</h2>
-Stars was primarily a small program that I wrote to compose my setup a few months ago. It only took a few minutes to write it that day; however, I rewrote the source code to make it available on my Github. Some features have been added to the program to make it suitable for more environments.
+<h2>❄️ Icewall ❄️</h2>
+The icewall is a software written in C programming language that implements a firewall for Linux systems. This software tests incoming and outgoing network packets against defined rules, the result of the test defines if the packet must be dropped or allowed to continue torwards its destination. The icewall are divided into two programs, a kernel module, that actually filters all incoming and outgoing packets, and a controller, that acts as a front-end to define new rules, list them and so on.
 
 <h2>💻 R-matrix 💻</h2>
 The R-matrix project utilizes certain features of modern terminals to simulate a matrix effect. It offers customizable features, allowing users to enhance the visual appeal and behaviors of the matrix. Some included customizations involve setting new colors for the matrix, adjusting the speed of its operations and more. The entire project is implemented using the Rust programming language.
