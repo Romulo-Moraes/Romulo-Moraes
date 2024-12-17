@@ -17,7 +17,7 @@ Hey! My name is Rômulo Peres de Moraes, a passionate computer enthusiast dedica
    <a href="https://github.com/Romulo-Moraes/Assembly-Toolkit">
       <img height="95px" src="https://github-readme-stats.vercel.app/api/pin/?username=Romulo-Moraes&repo=Assembly-Toolkit&theme=tokyonight">
    </a>
-   <a href="https://github.com/Romulo-Moraes/Stars">
+   <a href="https://github.com/Romulo-Moraes/Icewall">
       <img height="95px" src="https://github-readme-stats.vercel.app/api/pin/?username=Romulo-Moraes&repo=Icewall&theme=tokyonight">
    </a>
 </div>
