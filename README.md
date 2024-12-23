@@ -23,7 +23,7 @@ Hey! My name is Rômulo Peres de Moraes, a passionate computer enthusiast dedica
 </div>
 
 <h2>⚙️ Assembly-Toolkit ⚙️</h2>
-This repository contains considerable information about the Assembly language, providing the essential resources for diving into low-level programming. It covers topics about memory segments, stack, registers, opcodes and more.
+This repository contains considerable information about the Assembly language, providing the essential resources for diving into low-level programming. It covers topics about memory segments, jumps, registers, opcodes and more.
 
 <h2>⌚ Rclock ⌚</h2>
 The Rclock is a digital terminal clock for POSIX systems, fully customizable with colors and datetime features.
