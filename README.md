@@ -41,6 +41,16 @@ The R-matrix project utilizes certain features of modern terminals to simulate a
 Anemone is a compact C library designed for the C programming language, with the ultimate aim of serving as a command-line argument parser. Currently, it effectively handles positional and optional arguments. The documentation for the project is available in the main README.md file and within specific issues marked with the 'documentation' label.
 -->
 
+# See also
+<div>
+   <a href="https://github.com/Romulo-Moraes/real-snake">
+      <img height="95px" src="https://github-readme-stats.vercel.app/api/pin/?username=Romulo-Moraes&repo=real-snake&theme=tokyonight">
+   </a>
+   <a href="https://github.com/Romulo-Moraes/stars">
+      <img height="95px" src="https://github-readme-stats.vercel.app/api/pin/?username=Romulo-Moraes&repo=stars&theme=tokyonight">
+   </a>
+</div>
+
 <h1>My status 📖</h1>
 <div>
    <img height="117px" src="https://github-readme-stats.vercel.app/api?username=Romulo-Moraes&theme=tokyonight&show_icons=true">
