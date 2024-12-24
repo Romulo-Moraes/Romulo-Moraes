@@ -43,8 +43,8 @@ Anemone is a compact C library designed for the C programming language, with the
 
 # See also
 <div>
-   <a href="https://github.com/Romulo-Moraes/real-snake">
-      <img height="95px" src="https://github-readme-stats.vercel.app/api/pin/?username=Romulo-Moraes&repo=real-snake&theme=tokyonight">
+   <a href="https://github.com/Romulo-Moraes/Real-snake">
+      <img height="95px" src="https://github-readme-stats.vercel.app/api/pin/?username=Romulo-Moraes&repo=Real-snake&theme=tokyonight">
    </a>
    <a href="https://github.com/Romulo-Moraes/stars">
       <img height="95px" src="https://github-readme-stats.vercel.app/api/pin/?username=Romulo-Moraes&repo=stars&theme=tokyonight">
