@@ -17,8 +17,8 @@ Hey! My name is Rômulo Peres de Moraes, a passionate computer enthusiast dedica
    <a href="https://github.com/Romulo-Moraes/Assembly-Toolkit">
       <img height="95px" src="https://github-readme-stats.vercel.app/api/pin/?username=Romulo-Moraes&repo=Assembly-Toolkit&theme=tokyonight">
    </a>
-   <a href="https://github.com/Romulo-Moraes/Icewall">
-      <img height="95px" src="https://github-readme-stats.vercel.app/api/pin/?username=Romulo-Moraes&repo=Icewall&theme=tokyonight">
+   <a href="https://github.com/Romulo-Moraes/Real-snake">
+      <img height="95px" src="https://github-readme-stats.vercel.app/api/pin/?username=Romulo-Moraes&repo=Real-snake&theme=tokyonight">
    </a>
 </div>
 
@@ -30,11 +30,15 @@ The Rclock is a digital terminal clock for POSIX systems, fully customizable wit
 This repository is fully documented, for final users and for developers that may create new features or for maintenance reasons.
 The included features of the Rclock are: customize the color of the components, optionally hide the date and the seconds, set a custom date and so on...
 
-<h2>❄️ Icewall ❄️</h2>
+<!--<h2>❄️ Icewall ❄️</h2>
 The icewall is a software written in C programming language that implements a firewall for Linux systems. This software tests incoming and outgoing network packets against defined rules, the result of the test defines if the packet must be dropped or allowed to continue torwards its destination. The icewall are divided into two programs, a kernel module, that actually filters all incoming and outgoing packets, and a controller, that acts as a front-end to define new rules, list them and so on.
+-->
 
 <h2>💻 R-matrix 💻</h2>
 The R-matrix project utilizes certain features of modern terminals to simulate a matrix effect. It offers customizable features, allowing users to enhance the visual appeal and behaviors of the matrix. Some included customizations involve setting new colors for the matrix, adjusting the speed of its operations and more. The entire project is implemented using the Rust programming language.
+
+<h2>Real-snake</h2>
+Real snake is a bootable snake game written in assembly language, designed to run in real mode. The project implements random generation of fruits, sandbox borders and in-code configurable parameters, everything in an image of 1KiB, loader included.
 
 <!--
 <h2>Anemone 🐟</h2>
@@ -43,8 +47,8 @@ Anemone is a compact C library designed for the C programming language, with the
 
 # See also
 <div>
-   <a href="https://github.com/Romulo-Moraes/Real-snake">
-      <img height="95px" src="https://github-readme-stats.vercel.app/api/pin/?username=Romulo-Moraes&repo=Real-snake&theme=tokyonight">
+   <a href="https://github.com/Romulo-Moraes/Icewall">
+      <img height="95px" src="https://github-readme-stats.vercel.app/api/pin/?username=Romulo-Moraes&repo=Icewall&theme=tokyonight">
    </a>
    <a href="https://github.com/Romulo-Moraes/stars">
       <img height="95px" src="https://github-readme-stats.vercel.app/api/pin/?username=Romulo-Moraes&repo=stars&theme=tokyonight">
