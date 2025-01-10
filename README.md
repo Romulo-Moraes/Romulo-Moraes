@@ -37,7 +37,7 @@ The icewall is a software written in C programming language that implements a fi
 <h2>💻 R-matrix 💻</h2>
 The R-matrix project utilizes certain features of modern terminals to simulate a matrix effect. It offers customizable features, allowing users to enhance the visual appeal and behaviors of the matrix. Some included customizations involve setting new colors for the matrix, adjusting the speed of its operations and more. The entire project is implemented using the Rust programming language.
 
-<h2>Real-snake</h2>
+<h2>🐍 Real-snake 🐍</h2>
 Real snake is a bootable snake game written in assembly language, designed to run in real mode. The project implements random generation of fruits, sandbox borders and in-code configurable parameters, everything in an image of 1KiB, loader included.
 
 <!--
