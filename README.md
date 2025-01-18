@@ -10,8 +10,8 @@ Hey! My name is Rômulo Peres de Moraes, a passionate computer enthusiast dedica
    <a href="https://github.com/Romulo-Moraes/Rclock">
       <img height="95px" src="https://github-readme-stats.vercel.app/api/pin/?username=Romulo-Moraes&repo=Rclock&theme=tokyonight">
    </a>
-   <a href="https://github.com/Romulo-Moraes/R-matrix">
-      <img height="95px" src="https://github-readme-stats.vercel.app/api/pin/?username=Romulo-Moraes&repo=R-matrix&theme=tokyonight">
+   <a href="https://github.com/Romulo-Moraes/Rmatrix">
+      <img height="95px" src="https://github-readme-stats.vercel.app/api/pin/?username=Romulo-Moraes&repo=Rmatrix&theme=tokyonight">
    </a>
    <br/>
    <a href="https://github.com/Romulo-Moraes/Assembly-Toolkit">
@@ -34,8 +34,8 @@ The included features of the Rclock are: customize the color of the components, 
 The icewall is a software written in C programming language that implements a firewall for Linux systems. This software tests incoming and outgoing network packets against defined rules, the result of the test defines if the packet must be dropped or allowed to continue torwards its destination. The icewall are divided into two programs, a kernel module, that actually filters all incoming and outgoing packets, and a controller, that acts as a front-end to define new rules, list them and so on.
 -->
 
-<h2>💻 R-matrix 💻</h2>
-The R-matrix project utilizes certain features of modern terminals to simulate a matrix effect. It offers customizable features, allowing users to enhance the visual appeal and behaviors of the matrix. Some included customizations involve setting new colors for the matrix, adjusting the speed of its operations and more. The entire project is implemented using the Rust programming language.
+<h2>💻 Rmatrix 💻</h2>
+The Rmatrix project utilizes certain features of modern terminals to simulate a matrix effect. It offers customizable features, allowing users to enhance the visual appeal and behaviors of the matrix. Some included customizations involve setting new colors for the matrix, adjusting the speed of its operations and more. The entire project is implemented using the Rust programming language.
 
 <h2>🐍 Real-snake 🐍</h2>
 Real snake is a bootable snake game written in assembly language, designed to run in real mode. The project implements random generation of fruits, sandbox borders and in-code configurable parameters, everything in an image of 1KiB, loader included.
