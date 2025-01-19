@@ -71,7 +71,7 @@ Anemone is a compact C library designed for the C programming language, with the
    &nbsp;
    <img align="center" height="50" width="45" src="https://nodejs.org/static/logos/jsIconGreen.svg">
    &nbsp;
-   <img align="center" height="50" width="50" src="https://seeklogo.com/images/N/netwide-assembler-nasm-logo-EC5B1109AC-seeklogo.com.png">
+   <img align="center" height="50" width="50" src="https://www.nasm.us/images/nasm.png">
    <img align="center" height="50" width="50" src="./redis-original.png">
 </div>
 
